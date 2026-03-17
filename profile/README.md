@@ -19,7 +19,7 @@ Welcome to the open-source hub of the NFC Innovative Trading team. We focus on t
 
 Rather than just reading about finance, we build, backtest, and research quantitative models to support the club's broader investment strategies. Feel free to explore, learn, and ethically leverage our code.
 
-## 📂 Core Quant Repository
+## 📂 Quant Trading Concepts Repository
 
 Here is our active library of Jupyter Notebooks explaining core quantitative concepts.
 
