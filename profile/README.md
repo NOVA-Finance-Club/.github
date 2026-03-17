@@ -14,7 +14,7 @@
 
 ## Our work
 
-Welcome to the open-source hub of the NFC Innovative Trading team. We focus on translating complex financial concepts into practical, executable Python code. 
+Welcome to the open-source hub of the **NFC Innovative Trading team**. We focus on translating complex financial concepts into practical, executable Python code. 
 
 Rather than just reading about finance, we build, backtest, and research quantitative models to support the club's broader investment strategies. Feel free to explore, learn, and ethically leverage our code.
 
