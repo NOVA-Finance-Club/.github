@@ -13,15 +13,15 @@
 
 **The NOVA Finance Club (NFC)** is a student club founded at the NOVA School of Science and Technology (FCT NOVA) with the goal of promoting financial literacy among students. The club focuses on providing a solid foundation in finance for academic, professional, and personal success by sharing knowledge about investments, financial markets, and personal finance.
 
-## ⚙️ The Quant Repository
+## Our work
 
 Welcome to the open-source hub of the NFC Innovative Trading team. We focus on translating complex financial concepts into practical, executable Python code. 
 
 Rather than just reading about finance, we build, backtest, and research quantitative models to support the club's broader investment strategies. Feel free to explore, learn, and ethically leverage our code.
 
-## 📂 Core Quant Notebooks
+## 📂 Core Quant Repository
 
-Here is our active library of Jupyter Notebooks explaining core quantitative concepts. Click on any topic to view the code and the underlying math:
+Here is our active library of Jupyter Notebooks explaining core quantitative concepts.
 
 | Model / Concept | Description | Status |
 | :--- | :--- | :---: |
