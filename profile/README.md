@@ -1,12 +1,4 @@
-<div align="center">
-  <h1> NOVA Finance Club: Innovative Trading Department</h1>
-  <p><i>Bridging Science & Finance at NOVA Finance Club</i></p>
 
-  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](#)
-  [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](#)
-</div>
-
----
 
 ## About us 
 
