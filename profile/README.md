@@ -14,7 +14,7 @@ Rather than just reading about finance, we build, backtest, and research quantit
 
 Here is our active library of Jupyter Notebooks explaining core quantitative concepts.
 
-| Model / Concept | Description | Status |
+| Concept | Description | Status |
 | :--- | :--- | :---: |
 |  **[Modern Portfolio Theory](./link-to-mpt.ipynb)** | Markowitz efficient frontier, covariance matrices, and optimal asset allocation. | 🟡 W.I.P |
 |  **[Black-Scholes & Implied Vol](./link-to-bsm.ipynb)** | Options pricing and volatility surface visualization. | 🟡 W.I.P |
