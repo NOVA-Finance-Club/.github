@@ -12,7 +12,7 @@ Rather than just reading about finance, we build, backtest, and research quantit
 
 ## 📂 Quant Trading Concepts Repository
 
-Here is our active library of Jupyter Notebooks explaining core quantitative concepts.
+Our library of Jupyter Notebooks explaining core quantitative concepts.
 
 | Concept | Description | Status |
 | :--- | :--- | :---: |
