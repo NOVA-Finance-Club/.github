@@ -10,8 +10,7 @@ Welcome to the open-source hub of the **NFC Innovative Trading team**. We focus 
 
 Rather than just reading about finance, we build, backtest, and research quantitative models to support the club's broader investment strategies.
 
----
-### Contact
+## Contact
 - Linkedin: https://www.linkedin.com/company/nova-finance-club/
 - Instagram: https://www.instagram.com/novafinanceclub_fct/
 - Email: nfc@ae.fct.unl.pt 
