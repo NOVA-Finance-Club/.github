@@ -6,7 +6,7 @@
 
 ## Our work
 
-Welcome to the open-source hub of the **NFC Quantitative Trading Department**.
+Welcome to the hub of the **NFC Quantitative Trading Department**.
 
 Rather than just reading about finance, we build, backtest, and research quantitative models to support the club's broader investment strategies.
 
